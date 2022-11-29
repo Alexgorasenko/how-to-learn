@@ -51,6 +51,7 @@
   font-weight: normal;
   padding-bottom: 30px;
   margin: 0;
+  white-space: pre-line;
 }
 
 .header__link {
