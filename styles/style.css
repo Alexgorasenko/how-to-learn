@@ -46,12 +46,11 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
-  height: 25px;
+  line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  padding-bottom: 30px;
   margin: 0;
-  white-space: pre-line;
+  width: 388px;
 }
 
 .header__link {
