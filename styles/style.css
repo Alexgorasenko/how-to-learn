@@ -315,8 +315,10 @@
 }
 .footer__column_links {
   color: #fff;
-  margin-bottom: 16px;
   text-decoration: none;
+}
+.footer__column_last-link{
+  margin-bottom: 16px;
 }
 .footer__column_content_social {
   display: flex;
