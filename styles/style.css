@@ -317,9 +317,6 @@
   color: #fff;
   text-decoration: none;
 }
-.footer__column_last-link{
-  margin-bottom: 16px;
-}
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
